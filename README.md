@@ -7,6 +7,7 @@ Implementasi **Random Forest Regressor** untuk memprediksi **Win Place Percentag
 ## Rancangan Aplikasi 
 <img width="1388" height="784" alt="image" src="https://github.com/user-attachments/assets/b6d77912-dfe8-429b-8429-5ca5f0c8553a" />
 
+<img width="1369" height="783" alt="image" src="https://github.com/user-attachments/assets/32517f98-a5ca-428e-a391-1404c2028109" />
 
 ## 🎯 Tujuan
 
