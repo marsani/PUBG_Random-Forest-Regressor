@@ -4,6 +4,10 @@
 
 Implementasi **Random Forest Regressor** untuk memprediksi **Win Place Percentage** dalam game PUBG (PlayerUnknown's Battlegrounds). Model ini berfungsi sebagai **baseline yang kuat** untuk perbandingan dengan algoritma boosting.
 
+## Rancangan Aplikasi 
+<img width="1388" height="784" alt="image" src="https://github.com/user-attachments/assets/b6d77912-dfe8-429b-8429-5ca5f0c8553a" />
+
+
 ## 🎯 Tujuan
 
 Memprediksi peringkat kemenangan pemain (winPlacePerc) berdasarkan statistik permainan seperti:
@@ -14,7 +18,7 @@ Memprediksi peringkat kemenangan pemain (winPlacePerc) berdasarkan statistik per
 
 ## 📁 Dataset
 
-- **File**: `PUBG_Game_Prediction_data.csv`
+- **File**: `PUBG_Game_Prediction_data.csv` Link : https://www.kaggle.com/datasets/ashishjangra27/pubg-games-dataset
 - **Total Records**: 4,446,966 rows
 - **Features**: 29 kolom
 - **Target**: `winPlacePerc` (0.0 - 1.0)
